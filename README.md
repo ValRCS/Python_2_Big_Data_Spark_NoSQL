@@ -1,6 +1,8 @@
 # Python_2_Big_Data_Spark_NoSQL
 Python Bootcamp 2
 
+## Syllabus
+
 Python Course 2 at Accenture SheGoesTech - 120 hours
 Intermediate to Advanced Python 
 
